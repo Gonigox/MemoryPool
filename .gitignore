@@ -1,0 +1,11 @@
+.vs/
+Debug
+Release
+x64
+
+[Tt]humbs.db
+[Dd]esktop.ini
+
+*.sln
+*.vcxproj
+*.vcxproj.*
